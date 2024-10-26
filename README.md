@@ -204,8 +204,21 @@ _pizza_sales_analysis.xlsx_
 - Classic Deluxe and Barbecue Chicken pizzas are the best sellers and revenue generators whereas the Brie Carre is at the 
   bottom in both orders and revenue.
 
+## Conclusion
+The analysis reveals notable trends in order patterns and product preferences. Orders peak on weekends and are especially high during Friday and Saturday evenings, aligning with typical leisure times. Additionally, the highest order volumes occur during lunch (12 PM - 1 PM) and dinner hours (5 PM - 8 PM), indicating a strong correlation between meal times and demand. Among the menu categories, the Classic category dominates in both sales and total orders, with Large-sized pizzas being the most popular. Conversely, X-Large and XX-Large sizes are the least ordered, suggesting a preference for moderately sized options. The Classic Deluxe and Barbecue Chicken pizzas emerge as top sellers and highest revenue generators, while the Brie Carre has the lowest performance in terms of both orders and revenue.
 
+## Recommendations
+- **Targeted Marketing for Weekends and Peak Times:** Increase advertising efforts on Fridays and Saturdays, especially targeting lunch and dinner hours. Promotional offers during these times could further drive orders and boost sales.
+- **Optimize Inventory for Popular Categories and Sizes:** Given the high demand for Classic category pizzas and Large sizes, ensure sufficient inventory and preparation resources to meet customer expectations without delays. Reducing inventory for X-Large and XX-Large sizes may also help manage costs and prevent overstock.
+- **Menu Engineering for Low-Performing Items:** Since the Brie Carre ranks low in both sales and revenue, consider repositioning it on the menu or offering bundled promotions to improve visibility and demand. If it continues to underperform, it may be beneficial to phase it out or replace it with a more popular variant.
+- **Seasonal Promotions for Best Sellers:** Leverage the popularity of Classic Deluxe and Barbecue Chicken pizzas by featuring them in limited-time offers or seasonal promotions. Consider offering combo deals or family-sized options that include these best sellers to drive up order values and customer satisfaction.
+- **Enhanced Customer Engagement During Meal Times:** Utilize push notifications or reminders during peak ordering hours (lunch and dinner times) through online platforms or apps. This can serve as a prompt for regular customers and capitalize on the high demand during these hours.      
 
+Implementing these strategies could help capitalize on peak demand periods, optimize inventory, and further enhance customer satisfaction while maximizing revenue across popular items and categories.
 
+## Repository Content
+- The dataset (pizza_sales.csv)
+- The Excel workbook containing the charts, KPI requirements and the dynamic dashboard (pizza_sales_analysis.xlsx)
 
-
+## Acknowledgments
+I would like to thank the software tools that were essential to this project. MS SQL Server 2022 provided a strong foundation for managing and querying data, while SQL Server Management Studio 20.2 facilitated efficient data extraction and manipulation. Additionally, MS Excel 2021 was invaluable for data cleaning, processing, and visualization, allowing me to transform raw data into actionable insights. Their contributions greatly enhanced the quality of my work.
